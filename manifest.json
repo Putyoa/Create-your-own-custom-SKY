@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§kCustom skyツクレール§r",
+        "name": "Custom skyツクレール",
+        "uuid": "3f1d98ed-5d6a-1265-9d63-36c63e539432",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "ea7313c8-e1f0-2b8b-8ef1-d70e69a5fa13",
+            "version": [0, 0, 1]
+        }
+    ]
+}
